@@ -50,7 +50,6 @@ The primary objective of this project is to:
 - Jupyter Notebook
 - NumPy
 - Pandas
-- Matplotlib
 - SciPy
 - yFinance
 
